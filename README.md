@@ -16,7 +16,7 @@ Futuro FrontEnd Developer
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sicora-dev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=sicora-dev&locale=es&mode=daily&theme=jolly&hide_border=false&border_radius=80&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sicora-dev&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -68,7 +68,7 @@ Futuro FrontEnd Developer
 
 <div align="center">
   <a href="https://sicora-dev.github.io/MyPortfolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=MY%20Portfolio&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+    <img src="https://img.shields.io/static/v1?message=MY%20Portfolio&label=&color=c770f0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
 </div>
 
