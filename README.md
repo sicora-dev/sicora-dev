@@ -76,7 +76,7 @@ Futuro FrontEnd Developer
 
 <br clear="both">
 
-![Snake animation](https://github.com/sicora-dev/sicora-dev/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
