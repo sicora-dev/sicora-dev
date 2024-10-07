@@ -75,8 +75,10 @@ Futuro FrontEnd Developer
 ###
 
 <br clear="both">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sicora-dev/sicora-dev/output/snake.svg" alt="Snake animation" />
+</div>
 
-<img src="https://raw.githubusercontent.com/sicora-dev/sicora-dev/output/snake.svg" alt="Snake animation" />
 
 ###
 
