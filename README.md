@@ -1,13 +1,13 @@
 ```javascript
 let isFullStack = false;
-let rol = isFullStack ? "FullStack Developer" : "Futuro FrontEnd Developer";
+let rol = isFullStack ? "FullStack Developer" : "Futuro FullStack Developer";
 console.log(rol);
 ```
 
 **Console:**
 
 ```sh
-Futuro FrontEnd Developer
+Futuro FullStack Developer
 ```
 
 
